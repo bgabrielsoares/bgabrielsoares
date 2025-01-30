@@ -1,3 +1,5 @@
+<div>
+
 ### Olá! Eu sou o Bruno Gabriel 🤙🏻
 
 
@@ -16,6 +18,10 @@
     <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
     <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
 </div><br/>
+
+![Snake animation] (https://github.com/bgabrielsoares/bgabrielsoares/blob/output/github-contribuition-grid-snake.svg)
+
+</div>
 
 ## Sobre Mim
  Estou começando minha jornada na área de programação, trazendo comigo uma sólida experiência como editor de vídeo e motion designer. Minha paixão por tecnologia e design me impulsionou a explorar o mundo do desenvolvimento, onde estou focado em aprender e aplicar habilidades em programação para criar soluções inovadoras e visualmente atraentes. Estou entusiasmado em combinar minhas competências criativas com meu novo conhecimento técnico para entregar projetos impactantes.
