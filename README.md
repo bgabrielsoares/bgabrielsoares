@@ -4,10 +4,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brunogabriel26/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bgsoares93/)
 
-<div>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=bgabrielsoares&show_icons=true&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bgabrielsoares&hide_progress=true&theme=dracula"/>
-</div>
+![Bruno GitHub stats](https://github-readme-stats.vercel.app/api?username=bgabrielsoares&show_icons=true&theme=dracula)
 
 ## Tecnologias que uso no meu dia
 
